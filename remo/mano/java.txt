@@ -1,1 +1,0 @@
-today i leaned some basic concepts of git 
